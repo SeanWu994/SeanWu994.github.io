@@ -1,4 +1,3 @@
-
 ---
 title: "Cloud-Based POS Data Pipeline"
 excerpt: "Integrated and cleaned data from three POS systems using Google Cloud, BigQuery, and SQL."
