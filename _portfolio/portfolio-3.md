@@ -4,6 +4,8 @@ excerpt: "Designed a hybrid MongoDB and BigQuery database architecture to suppor
 collection: portfolio
 permalink: /portfolio/fitness-database-design/
 ---
+![FitTrack Workout Logging ERD](/images/Untitled%20Diagram.drawio.png)
+*Entity Relationship Diagram for the FitTrack Workout Logging database, showing users, workout sessions, exercises, and workout sets.*
 
 # Hybrid Database Design for a Fitness Application
 
