@@ -1,4 +1,3 @@
-
 ---
 title: "Hybrid Database Design for a Fitness Application"
 excerpt: "Designed a hybrid MongoDB and BigQuery database architecture to support fitness tracking and business analytics."
