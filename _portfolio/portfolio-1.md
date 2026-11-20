@@ -7,6 +7,9 @@ permalink: /portfolio/cloud-pos-data-pipeline/
 ---
 
 # Cloud-Based POS Data Pipeline
+![POS Analytics Dashboard](/images/pos-dashboard.png)
+
+*Looker Studio dashboard developed for a Purdue academic project using simulated POS data.*
 
 **Project Type:** Academic Project | Purdue University  
 **Tools:** Google Cloud Platform, BigQuery, SQL, Cloud Run, Looker Studio
